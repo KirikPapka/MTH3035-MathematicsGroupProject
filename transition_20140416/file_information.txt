@@ -1,0 +1,7 @@
+sonde_20140416_hhmmss.dat, where the column data are:
+ 
+height (m), theta (K), mr (g/kg), u (m/s), v (m/s)
+ 
+and the 30-minute heat fluxes at 10m height in the file heatflux_20140416.dat, where the column data are:
+ 
+                UTC time (hhmmss), QH (W/m2), QE (W/m2)

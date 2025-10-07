@@ -1,0 +1,5 @@
+rm 1d_bl.exe
+echo "Compiling 1d_bl"
+gfortran 1d_bl.f90 -o run_scm.exe
+echo "Running 1d_bl"
+./1d_bl.exe

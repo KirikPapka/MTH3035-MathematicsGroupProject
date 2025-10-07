@@ -1,0 +1,10 @@
+&wind   wind_opt=0  &end
+&run run_length=40000.0, 
+     freq_out=600.0,
+     dt=1.0
+&end
+&geowind
+U_g=0.0, V_g = 6.0
+&end
+
+ 
